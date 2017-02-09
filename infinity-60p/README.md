@@ -10,6 +10,9 @@ contains the following layout:
 [gh]:https://github.com/kiibohd/KiiConf
 [ss]:./layout.png
 
+Notice the lack of a flash key -- this is because the model of infinity I am
+using has a physical flash button on the back.
+
 ### Installation
 
 + Plug in your keyboard
